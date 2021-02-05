@@ -1,0 +1,28 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.circle-container {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: red;
+}
+
+.box-container {
+  width: 200px;
+  height: 200px;
+  background-color: burlywood;
+}
+
+.circle-default-bg {
+  background-color: red;
+}
+
+.circle-overlap-bg {
+  background-color: green;
+}
